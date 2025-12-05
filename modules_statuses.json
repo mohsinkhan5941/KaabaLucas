@@ -1,0 +1,9 @@
+{
+    "Crm": false,
+    "Blog": true,
+    "User": true,
+    "Auth": true,
+    "Interest": true,
+    "InterestLocations": true,
+    "CityContents": true
+}
